@@ -1,3 +1,3 @@
 # IsHYuhi.github.io
-mypage
+welcome to mypage
 https://ishyuhi.github.io/ImsoHappyYuhi.html
