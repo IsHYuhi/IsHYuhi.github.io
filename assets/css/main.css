@@ -1605,14 +1605,16 @@ input, select, textarea {
 		max-width: 100%;
 		margin-top: 2rem;
 		text-align: center;
+		margin: 0px;
+		bottom: 0;
 	}
 
-		#footer .copyright {
+		#footer .username {
 			letter-spacing: 0.2rem;
-			font-size: 0.6rem;
-			opacity: 0.75;
+			font-size: 0.5rem;
+			opacity: 0.8 ;
 			margin-bottom: 0;
-			text-transform: uppercase;
+			font-family: Zapfino;/*Trattatello;Zapfino;Papyrus;;*/
 		}
 
 		body.is-article-visible #footer {
